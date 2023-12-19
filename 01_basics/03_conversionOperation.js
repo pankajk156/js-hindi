@@ -1,0 +1,19 @@
+let score = 33 // sometimes we don't know that from where we get the value.
+
+console.log(typeof score);
+let test = "33abc"
+
+console.log(typeof(score));
+
+let valueInNumber = Number(score)
+console.log(typeof valueInNumber);
+console.log(valueInNumber);
+
+let valueInNumber2 = Number(test)
+console.log(typeof valueInNumbe2);
+console.log(valueInNumber2);  // NaN means Not a number sometimes it is not number.
+
+if d = null
+
+
+
