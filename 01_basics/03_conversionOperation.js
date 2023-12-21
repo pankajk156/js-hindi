@@ -21,7 +21,7 @@ console.log(investValue);
 let valueInNumber = Number(investValue)
 console.log(typeof valueInNumber)
 console.log(valueInNumber);
-*/
+
 let investValue = true
 console.log(typeof (investValue))
 console.log(investValue);
@@ -29,5 +29,10 @@ let valueInNumber = Number(investValue)
 console.log(typeof valueInNumber)
 console.log(valueInNumber);
 
+*/
 
+let t1 = true
+console.log(typeof t1);
+
+console.log(typeof Number(t1));
 
