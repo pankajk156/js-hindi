@@ -14,7 +14,6 @@ let valueInNumber2 = Number(test)
 console.log(typeof valueInNumbe2);
 console.log(valueInNumber2);  // NaN means Not a number sometimes it is not number.
 
-
 let investValue = true
 console.log(typeof (investValue))
 console.log(investValue);
@@ -33,6 +32,5 @@ console.log(valueInNumber);
 
 let t1 = true
 console.log(typeof t1);
-
 console.log(typeof Number(t1));
 
